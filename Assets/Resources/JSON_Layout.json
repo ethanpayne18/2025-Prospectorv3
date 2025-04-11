@@ -10,7 +10,7 @@
             "x": -9,
             "y": 0,
             "faceUp": true,
-            "layer": "Row0",
+            "layer": "Row4",
             "hiddenByString": ""
         },
         {
@@ -18,7 +18,7 @@
             "x": -6,
             "y": 0,
             "faceUp": true,
-            "layer": "Row0",
+            "layer": "Row4",
             "hiddenByString": ""
         },
         {
@@ -26,7 +26,7 @@
             "x": -3,
             "y": 0,
             "faceUp": true,
-            "layer": "Row0",
+            "layer": "Row4",
             "hiddenByString": ""
         },
         {
@@ -34,7 +34,7 @@
             "x": 0,
             "y": 0,
             "faceUp": true,
-            "layer": "Row0",
+            "layer": "Row4",
             "hiddenByString": ""
         },
         {
@@ -42,7 +42,7 @@
             "x": 3,
             "y": 0,
             "faceUp": true,
-            "layer": "Row0",
+            "layer": "Row4",
             "hiddenByString": ""
         },
         {
@@ -50,7 +50,7 @@
             "x": 6,
             "y": 0,
             "faceUp": true,
-            "layer": "Row0",
+            "layer": "Row4",
             "hiddenByString": ""
         },
         {
@@ -58,15 +58,15 @@
             "x": 9,
             "y": 0,
             "faceUp": true,
-            "layer": "Row0",
+            "layer": "Row4",
             "hiddenByString": ""
         },
         {
             "id": 7,
             "x": -9,
             "y": 1,
-            "faceUp": true,
-            "layer": "Row1",
+            "faceUp": false,
+            "layer": "Row3",
             "hiddenByString": "0"
         },
         {
@@ -74,7 +74,7 @@
             "x": -6,
             "y": 1,
             "faceUp": true,
-            "layer": "Row1",
+            "layer": "Row3",
             "hiddenByString": "1"
         },
         {
@@ -82,7 +82,7 @@
             "x": -3,
             "y": 1,
             "faceUp": true,
-            "layer": "Row1",
+            "layer": "Row3",
             "hiddenByString": "2"
         },
         {
@@ -90,7 +90,7 @@
             "x": 0,
             "y": 1,
             "faceUp": true,
-            "layer": "Row1",
+            "layer": "Row3",
             "hiddenByString": "3"
         },
         {
@@ -98,7 +98,7 @@
             "x": 3,
             "y": 1,
             "faceUp": true,
-            "layer": "Row1",
+            "layer": "Row3",
             "hiddenByString": "4"
         },
         {
@@ -106,7 +106,7 @@
             "x": 6,
             "y": 1,
             "faceUp": true,
-            "layer": "Row1",
+            "layer": "Row3",
             "hiddenByString": "5"
         },
         {
@@ -114,7 +114,7 @@
             "x": 9,
             "y": 1,
             "faceUp": true,
-            "layer": "Row1",
+            "layer": "Row3",
             "hiddenByString": "6"
         },
         {
@@ -178,7 +178,7 @@
             "x": -9,
             "y": 3,
             "faceUp": true,
-            "layer": "Row3",
+            "layer": "Row1",
             "hiddenByString": "14"
         },
         {
@@ -186,7 +186,7 @@
             "x": -6,
             "y": 3,
             "faceUp": true,
-            "layer": "Row3",
+            "layer": "Row1",
             "hiddenByString": "15"
         },
         {
@@ -194,7 +194,7 @@
             "x": -3,
             "y": 3,
             "faceUp": true,
-            "layer": "Row3",
+            "layer": "Row1",
             "hiddenByString": "16"
         },
         {
@@ -202,7 +202,7 @@
             "x": 0,
             "y": 3,
             "faceUp": true,
-            "layer": "Row3",
+            "layer": "Row1",
             "hiddenByString": "17"
         },
         {
@@ -210,7 +210,7 @@
             "x": 3,
             "y": 3,
             "faceUp": true,
-            "layer": "Row3",
+            "layer": "Row1",
             "hiddenByString": "18"
         },
         {
@@ -218,7 +218,7 @@
             "x": 6,
             "y": 3,
             "faceUp": true,
-            "layer": "Row3",
+            "layer": "Row1",
             "hiddenByString": "19"
         },
         {
@@ -226,7 +226,7 @@
             "x": 9,
             "y": 3,
             "faceUp": true,
-            "layer": "Row3",
+            "layer": "Row1",
             "hiddenByString": "20"
         },
 	    {
@@ -234,7 +234,7 @@
             "x": -9,
             "y": 4,
             "faceUp": true,
-            "layer": "Row4",
+            "layer": "Row0",
             "hiddenByString": ""
         },
 	    {
@@ -242,7 +242,7 @@
             "x": -6,
             "y": 4,
             "faceUp": true,
-            "layer": "Row4",
+            "layer": "Row0",
             "hiddenByString": ""
         },
 	    {
@@ -250,7 +250,7 @@
             "x": -3,
             "y": 4,
             "faceUp": true,
-            "layer": "Row4",
+            "layer": "Row0",
             "hiddenByString": ""
         },
 	    {
@@ -258,7 +258,7 @@
             "x": 0,
             "y": 4,
             "faceUp": true,
-            "layer": "Row4",
+            "layer": "Row0",
             "hiddenByString": ""
         },
 	    {
@@ -266,7 +266,7 @@
             "x": 3,
             "y": 4,
             "faceUp": true,
-            "layer": "Row4",
+            "layer": "Row0",
             "hiddenByString": ""
         },
 	    {
@@ -274,7 +274,7 @@
             "x": 6,
             "y": 4,
             "faceUp": true,
-            "layer": "Row4",
+            "layer": "Row0",
             "hiddenByString": ""
         },
 	    {
@@ -282,7 +282,7 @@
             "x": 9,
             "y": 4,
             "faceUp": true,
-            "layer": "Row4",
+            "layer": "Row0",
             "hiddenByString": ""
         }
     ],
